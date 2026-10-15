@@ -1,0 +1,56 @@
+.card {
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+.card:hover {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  transform: translateY(-4px);
+}
+
+
+
+main {
+  margin-top: 20px;
+}
+
+
+header {
+  background-color: #e0edf7;
+  padding: 20px;
+}
+
+.avatar {
+  clip-path: circle();
+}
+
+nav a {
+  color: #333333;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  margin-right: 1rem;
+}
+nav a:hover {
+  color: #2563EB;
+}
+
+
+section {
+  background-color: white;
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+#education table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#education td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+
+footer {
+  padding: 20px;
+  background-color: #e0edf7;
+}
