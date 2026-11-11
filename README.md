@@ -1,10 +1,10 @@
 # Session: Lab1
 
-ID: 26560030
+Student: **Bùi Thiệu Khiêm**  
+Student ID: **26560030**  
+Github: **https://github.com/hickwhither/web-development-and-design-lab-0**
 
-Name: Bùi Thiệu Khiêm
-
-Github: https://github.com/hickwhither/web-development-and-design-lab-0
+---
 
 ## In-class excercise
 https://hickwhither.github.io/web-development-and-design-lab-0
